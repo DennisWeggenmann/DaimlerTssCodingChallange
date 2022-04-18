@@ -1,7 +1,7 @@
 # DaimlerTssCodingChallange
 
 ## Annahmen
-Integer Zahlen
+ Positive integer Zahlen
 
 ## Bearbeitungszeit
 6 h
@@ -22,5 +22,5 @@ Im schlimmsten Fall ist die result Liste gleich lang wie die Eingabeliste . Die 
 
 ## Github actions
 Tests können in die test_mergeIntervals.py Datei eingefügt werden.
-Mit dem [Workflow](https://github.com/DennisWeggenmann/DaimlerTssCodingChallange/actions/workflows/manual_workflow.yml) können die Tests gestartet werden 
+Mit dem [Workflow](https://github.com/DennisWeggenmann/DaimlerTssCodingChallange/actions/workflows/manual_workflow.yml) können die Tests gestartet werden. 
 Das linting und die Tests werden bei einem merge request automatisch gestartet 
