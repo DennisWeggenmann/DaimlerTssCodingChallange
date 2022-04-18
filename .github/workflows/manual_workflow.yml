@@ -5,10 +5,6 @@ name: Python test
 
 on:
   workflow_dispatch:
-    inputs:
-      git-ref:
-        description: Git Ref (Optional)    
-        required: false
 
 permissions:
   contents: read
