@@ -19,3 +19,8 @@ Die Sortiermethode braucht O(nlogn) und die for Schleife O(n) also O(nlogn)
 
 ## Space Complexity
 Im schlimmsten Fall ist die result Liste gleich lang wie die Eingabeliste . Die space complexity ist O(n), wobei n die Länge der Eingabeliste ist.
+
+## Github actions
+Tests können in die test_mergeIntervals.py Datei eingefügt werden.
+Mit dem [Workflow](https://github.com/DennisWeggenmann/DaimlerTssCodingChallange/actions/workflows/manual_workflow.yml) können die Tests gestartet werden 
+Das linting und die Tests werden bei einem merge request automatisch gestartet 
