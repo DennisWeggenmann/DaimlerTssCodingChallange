@@ -3,6 +3,9 @@
 ## Annahmen
 Integer Zahlen
 
+## Bearbeitungszeit
+6 h
+
 ## Lösung
 Idee: https://www.geeksforgeeks.org/merging-intervals/#:~:text=A%20simple%20approach%20is%20to,for%20remaining%20intervals%20after%20first.
 
