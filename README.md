@@ -1,10 +1,11 @@
 # DaimlerTssCodingChallange
 
 ## Annahmen
- Positive integer Zahlen in den Intervallen
+ Positive integer Zahlen in den Intervallen.
+ Die Funktion bekommt eine Liste mit Intervallen übergeben.
 
 ## Bearbeitungszeit
-6 h
+Ungefähr 6 h
 
 ## Lösung
 Idee: https://www.geeksforgeeks.org/merging-intervals/#:~:text=A%20simple%20approach%20is%20to,for%20remaining%20intervals%20after%20first.
@@ -15,7 +16,6 @@ Die Intervalle werden eins nach dem anderen zusammengeführt. Wenn sich das aktu
 
 ## Time complexity
 Die Sortiermethode braucht O(nlogn) und die for Schleife O(n) also O(nlogn)
-
 
 ## Space Complexity
 Im schlimmsten Fall ist die result Liste gleich lang wie die Eingabeliste . Die space complexity ist O(n), wobei n die Länge der Eingabeliste ist.
