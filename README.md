@@ -1,7 +1,7 @@
 # DaimlerTssCodingChallange
 
 ## Annahmen
- Positive integer Zahlen
+ Positive integer Zahlen in den Intervallen
 
 ## Bearbeitungszeit
 6 h
